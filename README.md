@@ -1,2 +1,2 @@
 # WallBreakerUnity
-Brick Breaker Game implemented by Unity. 
+A classic Brick Breaker game implemented on Unity using c# scripting. 
