@@ -1,0 +1,72 @@
+Initialize engine version: 4.7.2f1 (a7fe7b7f3d1f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Sam\Unity projects\Unity 4.x\WallBreaker\WallBreakerFinal_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Sam\Unity projects\Unity 4.x\WallBreaker\WallBreakerFinal_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Sam\Unity projects\Unity 4.x\WallBreaker\WallBreakerFinal_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Sam\Unity projects\Unity 4.x\WallBreaker\WallBreakerFinal_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Sam\Unity projects\Unity 4.x\WallBreaker\WallBreakerFinal_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Sam\Unity projects\Unity 4.x\WallBreaker\WallBreakerFinal_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.213 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: E:\Sam\Unity projects\Unity 4.x\WallBreaker\WallBreakerFinal_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Sam\Unity projects\Unity 4.x\WallBreaker\WallBreakerFinal_Data\Managed\System.dll (this message is harmless)
+New Level load: Level_01
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 7.559524 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 299.
+Total: 0.937620 ms (FindLiveObjects: 0.025961 ms CreateObjectMapping: 0.012678 ms MarkObjects: 0.163011 ms  DeleteObjects: 0.004829 ms)
+
+UnloadTime: 0.494469 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 224.
+Total: 0.922526 ms (FindLiveObjects: 0.013282 ms CreateObjectMapping: 0.014489 ms MarkObjects: 0.178105 ms  DeleteObjects: 0.012074 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at Brick.OnCollisionEnter2D (UnityEngine.Collision2D col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.AudioSource.PlayClipAtPoint (UnityEngine.AudioClip clip, Vector3 position, Single volume) [0x00000] in <filename unknown>:0 
+  at Brick.OnCollisionEnter2D (UnityEngine.Collision2D col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trigger
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+New Level load: Lose Screen
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.531297 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 140.
+Total: 10.581282 ms (FindLiveObjects: 0.009659 ms CreateObjectMapping: 0.010867 ms MarkObjects: 0.169653 ms  DeleteObjects: 9.673849 ms)
+
+New Level load: Start Menu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 1.019126 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 153.
+Total: 1.241305 ms (FindLiveObjects: 0.013282 ms CreateObjectMapping: 0.011471 ms MarkObjects: 0.217349 ms  DeleteObjects: 0.005433 ms)
+
